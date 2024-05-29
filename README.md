@@ -11,7 +11,10 @@
   - You can get the dataset [HERE](https://drive.google.com/file/d/10sofXyF6NjwN6ngLyFfiPI-CUDpeqaN_/view).
 - **Interpretation**:
   - You can see Power BI dashboard [HERE](https://github.com/shravanichandane/UNIFIED_MENTOR_TASKS/blob/main/unifiedtaskamazon.pbix) in the same respository.
-    
+   - **Data Cleaning Process**:
+   -Conducted thorough data cleaning to ensure accuracy and reliability of analysis.</br>
+   Handled missing values and standardized data for consistent interpretation.
+   
 ## 2. Key Findings from Sales Data
 1. **Sales Over the Months**:
    - We found that July had the highest sum of units sold at 76,201 units, which was 425.63% higher than March, the month with the lowest sum at 14,497 units.
@@ -67,7 +70,9 @@ The objective of this analysis is to provide insights into the financial health 
 - **Attributes:**
   - **Mar Cap – Crore:** Market Capitalization in Crores
   - **Sales Qtr – Crore:** Quarterly Sale in Crores
-
+  - **Data Cleaning Process**:
+   - Conducted thorough data cleaning to ensure accuracy and reliability of analysis.</br>
+   - Handled missing values and standardized data for consistent interpretation.
 ## Key Metrics and Findings
 1. **Market Capitalization to Quarterly Sales Ratio:**
    - **Range:** 0.50 (Redington India) to 553.82 (SPARC)
