@@ -49,3 +49,91 @@
 
 
 This summary encapsulates the tasks performed during the Amazon sales data analysis project, highlighting the key findings and strategic recommendations derived from the analysis.
+
+------
+
+# TASK - 2
+
+# Financial Analytics Report
+
+## Overview
+This project analyzes the market capitalization and quarterly sales of the top 500 companies in India to identify key metrics and relationships. The analysis is performed using Power BI and Python.
+
+## Objective
+The objective of this analysis is to provide insights into the financial health and market positioning of the top 500 Indian companies, helping management make informed strategic decisions.
+
+## Dataset
+- **Source:** Market Capitalization and Quarterly Sales data of top 500 Indian companies [LINK](file:///C:/Users/shrav/Downloads/Project%204_Finanical%20Analytics%20(1)%20(1).pdf).
+- **Attributes:**
+  - **Mar Cap – Crore:** Market Capitalization in Crores
+  - **Sales Qtr – Crore:** Quarterly Sale in Crores
+
+## Key Metrics and Findings
+1. **Market Capitalization to Quarterly Sales Ratio:**
+   - **Range:** 0.50 (Redington India) to 553.82 (SPARC)
+   - **Highest Ratio:** SPARC
+   - **Lowest Ratio:** Redington India
+
+2. **Market Capitalization Insights:**
+   - **Highest Average Market Cap:** Reliance Industries (₹5,83,436.72 Crores)
+   - **Lowest Average Market Cap:** National Fertilizers (₹3,017.07 Crores)
+   - **Range:** ₹3,017.07 to ₹5,83,436.72 Crores
+
+3. **Quarterly Sales Insights:**
+   - **Highest Sum of Quarterly Sales:** IOCL (₹1,10,666.93 Crores)
+   - **Range:** ₹0 to ₹1,10,666.93 Crores
+
+## Detailed Findings
+1. **Market Capitalization vs Quarterly Sales:**
+   - **Negative Correlation:** Indicates that as one metric increases, the other tends to decrease.
+   
+2. **Significant Divergence:**
+   - **TCS:** Highest divergence between Market Cap (₹5,32,805.84 Crores) and Quarterly Sales.
+
+## Specific Comparisons
+- **SPARC vs. Redington India:**
+  - SPARC's Market Cap to Quarterly Sales ratio is 1,10,055.95% higher than that of Redington India.
+- **Reliance Industries vs. National Fertilizers:**
+  - Reliance Industries' average market cap is 19,237.86% higher than National Fertilizers.
+
+## Summary of Top Companies
+1. **Top Companies by Market Cap:**
+   - Reliance Industries
+   - TCS
+2. **Top Companies by Quarterly Sales:**
+   - IOCL
+   - Reliance Industries
+
+## Conclusions
+- **Key Insights:**
+  - Significant variance in Market Cap to Sales ratios among companies, indicating diverse market performance.
+  - Negative correlation between average market cap and quarterly sales suggests that higher market cap does not necessarily translate to higher sales.
+  - Outliers like SPARC, TCS, and Reliance Industries significantly influence overall metrics, pointing to their unique market positions and strategies.
+
+## Strategic Recommendations
+1. **For Companies with High Market Cap but Low Sales:**
+   - **Focus on Sales Growth:** Implement strategies to boost sales to align with market cap valuations, such as diversifying product lines or expanding market reach.
+   - **Cost Management:** Optimize operational costs to improve profit margins and support sales growth.
+
+2. **For Companies with High Sales but Low Market Cap:**
+   - **Investor Relations:** Strengthen communication with investors to highlight the company’s growth potential and strong sales performance.
+   - **Innovation and R&D:** Invest in research and development to introduce innovative products and services that can enhance market perception and increase market capitalization.
+
+3. **For Companies with Moderate Performance:**
+   - **Balanced Approach:** Maintain a balance between sales growth and market cap management. Regularly assess market trends and adjust strategies accordingly.
+   - **Risk Management:** Implement robust risk management practices to safeguard against market volatility and ensure steady growth.
+
+4. **General Recommendations:**
+   - **Data-Driven Decisions:** Continuously analyze market data to make informed strategic decisions.
+   - **Benchmarking:** Regularly benchmark performance against top competitors to identify areas for improvement and capitalize on market opportunities.
+   - **Sustainability and ESG:** Emphasize sustainability and environmental, social, and governance (ESG) factors to attract socially conscious investors and improve long-term viability.
+
+## Visualization
+You can find the interpretation [HERE](https://github.com/shravanichandane/UNIFIED_MENTOR_TASKS/blob/main/FINANCIAL%20ANALYTICS.pbix) in the same respository.
+
+## Conclusion
+The analysis identifies significant differences in market performance metrics across companies, revealing insights into the financial health and market positioning of top Indian companies. The strategic recommendations aim to help companies optimize their market presence and financial performance.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
